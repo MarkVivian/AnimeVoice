@@ -2,13 +2,13 @@ import os
 
 from playsound import playsound
 
-path = "./Voices/"
+path = "/home/mark/AnimeVoice/Voices/"
 
 
 # this will check the index.
 def play_sound(index):
     # this will list all the files in the directory specified.
-    filepath = os.listdir("./Voices/")
+    filepath = os.listdir(path)
     if len(filepath) >= index:
         playsound(path + filepath[index - 1])
 
