@@ -1,10 +1,11 @@
-import Writer
+import KeyboardListener
+import VoicePlayer
 
 
-class Choice:
-    def __init__(self):
-        Writer.Write.writer()
+def main():
+    listen = KeyboardListener.KeyListener()
+    listen.start()
 
 
 if __name__ == '__main__':
-    choice = Choice()
+    main()
