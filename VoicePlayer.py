@@ -11,7 +11,6 @@ def play_sound(index):
         # this will list all the files in the directory specified.
         filepath = os.listdir(path + "Voices/")
         if len(filepath) >= index:
-            print(filepath[index - 1])
             playsound(path + "Voices/" + filepath[index - 1])
     except Exception:
         print("an error occurred while finding the song")
