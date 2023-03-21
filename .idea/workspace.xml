@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4edcb03-2090-46e7-a9ce-fd7a3258fed2" name="Changes" comment="" />
+    <list default="true" id="c4edcb03-2090-46e7-a9ce-fd7a3258fed2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Voices/Rick and Morty Edit If god exists its fcking me #shorts [TubeRipper (mp3cut.net).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voices/Smoker Dee Joker Da - Fire Force Joker - Bgm (mp3cut.net).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voices/Some of my favorite movie quotes ever! Tiktok swaamb [TubeRipper (mp3cut.net) (1).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voices/Some of my favorite movie quotes ever! Tiktok swaamb [TubeRipper (mp3cut.net).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voices/ZWAKE UP TO REALITY - Madara Uchihas Words - Naruto [AMVEdit] [TubeRipper (mp3cut.net).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voices/bankai_kisuke_urahara.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voices/ghost_of_uchiha.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voices/god_of_death.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voices/isagi_yoichi_ore_wa_s.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voices/senbonzakura_kageyoshi.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voices/this_is_your_dream.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Voices/unohana_bankai.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VariableWritter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VariableWritter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeyboardListener.py" beforeDir="false" afterPath="$PROJECT_DIR$/KeyboardListener.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoicePlayer.py" beforeDir="false" afterPath="$PROJECT_DIR$/VoicePlayer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voices/State/Listen.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/State/Listen.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Voices/State/Quit.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/State/Quit.mp3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,17 +37,54 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KQOytV1REYj1qS1p5WH9OecFaY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/mark/Documents/GitHub/VariableWritter"
+    "last_opened_file_path": "/home/mark/Documents/Online/Backend/python_for_backend/AnimeVoice"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VariableWritter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +95,8 @@
       <updated>1673903599787</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
