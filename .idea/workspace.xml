@@ -5,18 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4edcb03-2090-46e7-a9ce-fd7a3258fed2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/VariableWritter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VariableWritter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functionality/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VoicePlayer.py" beforeDir="false" afterPath="$PROJECT_DIR$/VoicePlayer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeyboardListener.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functionality/KeyboardListener.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoicePlayer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functionality/VoicePlayer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,6 +47,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Functionality" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -82,9 +88,19 @@
       <option name="presentableId" value="Default" />
       <updated>1673903599787</updated>
     </task>
+    <task id="LOCAL-00001" summary="added the requirements.txt file, and also changed the path to debug the path error.">
+      <created>1683837846232</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683837846232</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added the requirements.txt file, and also changed the path to debug the path error." />
+    <option name="LAST_COMMIT_MESSAGE" value="added the requirements.txt file, and also changed the path to debug the path error." />
   </component>
 </project>

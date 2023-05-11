@@ -1,7 +1,7 @@
 import os
 from playsound import playsound
 
-path = "./"
+path = "../"
 
 
 # this will check the index.

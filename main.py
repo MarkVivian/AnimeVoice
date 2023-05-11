@@ -1,4 +1,4 @@
-import KeyboardListener
+from Functionality import KeyboardListener
 
 
 def main():
