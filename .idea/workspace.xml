@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4edcb03-2090-46e7-a9ce-fd7a3258fed2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Functionality/__init__.py" afterDir="false" />
+    <list default="true" id="c4edcb03-2090-46e7-a9ce-fd7a3258fed2" name="Changes" comment="moved everything into a package to allow better design for the code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KeyboardListener.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functionality/KeyboardListener.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VoicePlayer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functionality/VoicePlayer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -51,7 +48,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_functionality.MyTestCase.test_voice_player">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VariableWritter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,8 +70,23 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_functionality.MyTestCase.test_voice_player" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="VariableWritter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_functionality.MyTestCase.test_voice_player&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_functionality.MyTestCase.test_voice_player" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -95,12 +107,20 @@
       <option name="project" value="LOCAL" />
       <updated>1683837846232</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="moved everything into a package to allow better design for the code">
+      <created>1683838965925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683838965925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added the requirements.txt file, and also changed the path to debug the path error." />
-    <option name="LAST_COMMIT_MESSAGE" value="added the requirements.txt file, and also changed the path to debug the path error." />
+    <MESSAGE value="moved everything into a package to allow better design for the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved everything into a package to allow better design for the code" />
   </component>
 </project>
