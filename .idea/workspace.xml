@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4edcb03-2090-46e7-a9ce-fd7a3258fed2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Voices/Rick and Morty Edit If god exists its fcking me #shorts [TubeRipper (mp3cut.net).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Voices/Smoker Dee Joker Da - Fire Force Joker - Bgm (mp3cut.net).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Voices/Some of my favorite movie quotes ever! Tiktok swaamb [TubeRipper (mp3cut.net) (1).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Voices/Some of my favorite movie quotes ever! Tiktok swaamb [TubeRipper (mp3cut.net).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Voices/ZWAKE UP TO REALITY - Madara Uchihas Words - Naruto [AMVEdit] [TubeRipper (mp3cut.net).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Voices/bankai_kisuke_urahara.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Voices/ghost_of_uchiha.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Voices/god_of_death.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Voices/isagi_yoichi_ore_wa_s.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Voices/senbonzakura_kageyoshi.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Voices/this_is_your_dream.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Voices/unohana_bankai.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/VariableWritter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VariableWritter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KeyboardListener.py" beforeDir="false" afterPath="$PROJECT_DIR$/KeyboardListener.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/VoicePlayer.py" beforeDir="false" afterPath="$PROJECT_DIR$/VoicePlayer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Voices/State/Listen.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/State/Listen.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Voices/State/Quit.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/State/Quit.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/mark/Documents/Online/Backend/python_for_backend/AnimeVoice"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mark/Documents/Github/AnimeVoice&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />

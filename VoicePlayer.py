@@ -1,8 +1,7 @@
 import os
-
 from playsound import playsound
 
-path = "/home/mark/Documents/Online/Backend/python_for_backend/AnimeVoice/"
+path = "./"
 
 
 # this will check the index.
