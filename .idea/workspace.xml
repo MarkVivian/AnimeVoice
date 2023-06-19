@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4edcb03-2090-46e7-a9ce-fd7a3258fed2" name="Changes" comment="moving the files to functionality causes KeyboardListener.py not to function as required" />
+    <list default="true" id="c4edcb03-2090-46e7-a9ce-fd7a3258fed2" name="Changes" comment="moving the files to functionality causes KeyboardListener.py not to function as required">
+      <change beforePath="$PROJECT_DIR$/.idea/VariableWritter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VariableWritter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeyboardListener.py" beforeDir="false" afterPath="$PROJECT_DIR$/KeyboardListener.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +45,8 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/mark/Documents/Github/AnimeVoice&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/markv/Documents/GitHub/AnimeVoice&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -46,7 +55,7 @@
       <recent name="$PROJECT_DIR$/Functionality" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_functionality.MyTestCase.test_voice_player">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="VariableWritter" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,8 +93,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_functionality.MyTestCase.test_voice_player" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Python tests for test_functionality.MyTestCase.test_voice_player" />
       </list>
     </recent_temporary>
   </component>

@@ -18,7 +18,7 @@ class KeyListener:
                     if self.event.name.isdigit():
                         VoicePlayer.play_sound(int(self.event.name))
                     else:
-                        self.HandleLetters()
+                        self.handle_letters()
         except ImportError:
             print("Error occurred while reading the keyboard")
 
@@ -30,7 +30,7 @@ class KeyListener:
             VoicePlayer.state(2)
             self.state = False
 
-    def HandleLetters(self):
+    def handle_letters(self):
         keyboard_map = {
             'q': 10,
             'w': 11,
